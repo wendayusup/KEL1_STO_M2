@@ -19,3 +19,5 @@ Berdasarkan hasil `ls -l`, file-file di folder ini rata-rata memiliki izin `rw-r
 Artinya:
 - **Owner (Salwa):** Bisa baca dan ubah file.
 - **Group & Others:** Hanya bisa baca saja.
+---
+**Status:** Analisis awal selesai dikerjakan pada 7 April 2026.
