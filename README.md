@@ -1,4 +1,4 @@
-# Tugas Sistem Operasi - Kelompok X
+# Tugas Sistem Operasi - Kelompok 1
 
 Repository ini berisi source code aplikasi dan laporan analisis proses pada Sistem Operasi berbasis Linux (WSL).
 
