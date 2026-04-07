@@ -49,7 +49,7 @@ Berikut adalah tangkapan layar (screenshot) sebagai bukti praktikum di lingkunga
 ![Tampilan htop proses 2245](./htop_kel1.png)
 *Gambar 1: Pemantauan proses melalui utility htop.*
 
-![Tampilan ps aux](./ps aux_kel1.png)
+![Tampilan ps aux](./ps_aux_kel1.png)
 *Gambar 2: List proses pada terminal Linux.*
 
 ---
