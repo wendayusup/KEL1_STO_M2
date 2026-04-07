@@ -46,10 +46,10 @@ Meskipun aplikasi ini sederhana, penggunaan RAM sebesar **171MB** (RES) terdetek
 ## 4. Bukti Observasi
 Berikut adalah tangkapan layar (screenshot) sebagai bukti praktikum di lingkungan WSL:
 
-![Tampilan htop proses 2245](./bukti_htop.png)
+![Tampilan htop proses 2245](./htop_kel1.png)
 *Gambar 1: Pemantauan proses melalui utility htop.*
 
-![Tampilan ps aux](./bukti_ps.png)
+![Tampilan ps aux](./ps aux_kel1.png)
 *Gambar 2: List proses pada terminal Linux.*
 
 ---
